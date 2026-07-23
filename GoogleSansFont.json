@@ -1,14 +1,19 @@
 {
   "spec": 1,
   "name": "Google Sans Flex",
+  "author": "Rasya",
   "fonts": [
     {
       "name": "Google Sans Flex",
       "entries": [
         "GoogleSansFlex-Regular",
+        "GoogleSansFlex-Italic",
         "GoogleSansFlex-Medium",
+        "GoogleSansFlex-MediumItalic",
         "GoogleSansFlex-SemiBold",
-        "GoogleSansFlex-Bold"
+        "GoogleSansFlex-SemiBoldItalic",
+        "GoogleSansFlex-Bold",
+        "GoogleSansFlex-BoldItalic"
       ]
     }
   ]
